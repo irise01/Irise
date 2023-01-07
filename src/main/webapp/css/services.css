@@ -1,0 +1,136 @@
+@charset "ISO-8859-1";
+
+
+.wow fadeInUp animated{
+  visibility: visible;
+   font-size: 50px;
+}
+
+#online{
+  overflow: hidden;
+  background:#A7BD3F;
+  padding: 50px 50px;
+}
+
+.row service_det{
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+
+#textonline{
+  visibility: visible; 
+  animation-name: fadeInRight animated;
+  text-align: center;
+}
+
+#textonline h3{
+  color: white;
+}
+
+#textonline p{
+  line-height:28px;
+  margin-top: 3px;
+  color: white;
+
+}
+
+#classroom{
+overflow: hidden;
+background:#04AA6D;
+padding: 50px 50px;
+}
+
+
+#classroom1{
+  visibility: visible; 
+  animation-name: fadeInLeft animated;
+  text-align: center;
+}
+
+#classroom2{
+  visibility: visible;
+  animation-name: fadeInLeft animated;
+}
+
+#corporate{
+  overflow: hidden;
+  background:Tomato;
+}
+
+#corporate1{
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+
+#corporate3{
+  visibility: visible; 
+  animation-name: fadeInRight animated;
+}
+
+#corporate3 h3{
+  color: white;
+}
+
+#corporate3 p{
+  line-height:28px;
+  margin-top: 3px;
+  color: white;
+}
+
+#internship1{
+overflow: hidden;
+background:DodgerBlue;
+}
+
+#intership2{
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+
+#intership3{
+  visibility: visible; 
+  animation-name: fadeInRight; 
+  color: white;
+}
+
+#intership3 h3{
+  color: white;
+}
+
+#intership3 p{
+line-height:28px;
+margin-top: 3px;
+color: white;
+}
+
+#advantage{
+ overflow:hidden;
+}
+
+#advantage1{
+  visibility: visible; 
+  animation-name: fadeInUp;
+}
+
+#course{
+  visibility: visible; 
+  animation-name: fadeInLeft;
+}
+
+#free{
+  visibility: visible; 
+  animation-name: fadeInRight;
+}
+
+#state{
+  visibility: visible; 
+  animation-name: fadeInLeft;
+}
+
+#Blended{
+  visibility: visible; 
+  animation-name: fadeInRight;
+}
